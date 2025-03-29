@@ -1,9 +1,9 @@
 # Hi, I'm Erick Gustavo 👋
-- Junior Front-End developer
+- Frontend developer
 
 ## 🌱 Techs I'm working with at the moment
 - TypeScript
-- React.js
+- React.js / Next.js
 - Functional programming
 
 ## 📊 GitHub Analytics
