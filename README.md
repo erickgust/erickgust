@@ -1,4 +1,4 @@
-# Hi, I'm Erick Gustavo 👋
+# Hi, I'm Erick 👋
 - Frontend developer
 
 ## 🌱 Techs I'm working with at the moment
